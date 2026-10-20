@@ -7,7 +7,7 @@
 ```
 Name of Quantlet: SDA_2020_Giessen_Bird_Fourier
 
-Published in: SDA Giessen 2020
+Published in: SDA Giessen 2020"
 
 Description: Wiggly Animal
 
